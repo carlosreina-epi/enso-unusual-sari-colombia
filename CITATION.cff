@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "ENSO and unusual severe acute respiratory infection in Colombia, 2011-2019: code and aggregated data"
+version: 1.0.0
+date-released: 2026-11-03
+license: MIT
+repository-code: "https://github.com/carlosreina-epi/enso-unusual-sari-colombia"
+authors:
+  - family-names: Reina-Bolaños
+    given-names: Carlos Alberto
+    orcid: "https://orcid.org/0000-0002-6367-9239"
+    affiliation: "Facultad Nacional de Salud Pública, Universidad de Antioquia"
+  - family-names: Guzmán
+    given-names: Sonia
+    affiliation: "Ministerio de Salud y Protección Social, Colombia"
+  - family-names: Blanco
+    given-names: Camilo
+    affiliation: "Ministerio de Salud y Protección Social, Colombia"
