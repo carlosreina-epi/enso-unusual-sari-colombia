@@ -1,5 +1,7 @@
 # ENSO and unusual severe acute respiratory infection in Colombia, 2011–2019
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23924392.svg)](https://doi.org/10.5281/zenodo.23924392)
+
 Code and aggregated data for the manuscript:
 
 > Reina-Bolaños CA, Guzmán S, Blanco C. *El Niño–Southern Oscillation and unusual severe acute respiratory infection in Colombia, 2011–2019: a national time-series analysis using distributed lag non-linear models.* (submitted)
@@ -46,7 +48,9 @@ Rscript verificar_dlnm.R            # re-fits the main model with dlnm::crossbas
 
 ## Citation
 
-See `CITATION.cff`. If you use this code, please cite the article once published.
+Archived version: Reina-Bolaños CA, Guzmán S, Blanco C. ENSO and unusual severe acute respiratory infection in Colombia, 2011-2019: code and aggregated data (v1.0.0). Zenodo; 2026. doi:10.5281/zenodo.23924392
+
+See also `CITATION.cff`. Please cite the article once published.
 
 ## License
 
