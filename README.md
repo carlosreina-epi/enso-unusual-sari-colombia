@@ -4,10 +4,9 @@
 
 [![Preprint](https://img.shields.io/badge/Preprint-Research%20Square-blue)](https://doi.org/10.21203/rs.3.rs-11612511/v1)
 
-**Preprint:** Reina-Bolaños CA, Guzmán S, Blanco C. El Niño–Southern Oscillation and unusual severe acute respiratory infection in Colombia, 2011–2019: a national time-series analysis using distributed lag non-linear models. *Research Square* [preprint]; 2026. https://doi.org/10.21203/rs.3.rs-11612511/v1 (under review at the *International Journal of Biometeorology*).
 Code and aggregated data for the manuscript:
 
-> Reina-Bolaños CA, Guzmán S, Blanco C. *El Niño–Southern Oscillation and unusual severe acute respiratory infection in Colombia, 2011–2019: a national time-series analysis using distributed lag non-linear models.* (submitted)
+> Reina-Bolaños CA, Guzmán S, Blanco C. El Niño–Southern Oscillation and unusual severe acute respiratory infection in Colombia, 2011–2019: a national time-series analysis using distributed lag non-linear models. *Research Square* [preprint]; 2026. https://doi.org/10.21203/rs.3.rs-11612511/v1 (under review at the *International Journal of Biometeorology*).
 
 ## What this repository does
 
