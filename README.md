@@ -2,6 +2,9 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23924392.svg)](https://doi.org/10.5281/zenodo.23924392)
 
+[![Preprint](https://img.shields.io/badge/Preprint-Research%20Square-blue)](https://doi.org/10.21203/rs.3.rs-11612511/v1)
+
+**Preprint:** Reina-Bolaños CA, Guzmán S, Blanco C. El Niño–Southern Oscillation and unusual severe acute respiratory infection in Colombia, 2011–2019: a national time-series analysis using distributed lag non-linear models. *Research Square* [preprint]; 2026. https://doi.org/10.21203/rs.3.rs-11612511/v1 (under review at the *International Journal of Biometeorology*).
 Code and aggregated data for the manuscript:
 
 > Reina-Bolaños CA, Guzmán S, Blanco C. *El Niño–Southern Oscillation and unusual severe acute respiratory infection in Colombia, 2011–2019: a national time-series analysis using distributed lag non-linear models.* (submitted)
@@ -47,6 +50,9 @@ Rscript verificar_dlnm.R            # re-fits the main model with dlnm::crossbas
 - `verificacion_dlnm_rezago.png`: lag-response curve from the `dlnm` package
 
 ## Citation
+[![Preprint](https://img.shields.io/badge/Preprint-Research%20Square-blue)](https://doi.org/10.21203/rs.3.rs-11612511/v1)
+
+**Preprint:** Reina-Bolaños CA, Guzmán S, Blanco C. El Niño–Southern Oscillation and unusual severe acute respiratory infection in Colombia, 2011–2019: a national time-series analysis using distributed lag non-linear models. *Research Square* [preprint]; 2026. https://doi.org/10.21203/rs.3.rs-11612511/v1 (under review at the *International Journal of Biometeorology*).
 
 Archived version: Reina-Bolaños CA, Guzmán S, Blanco C. ENSO and unusual severe acute respiratory infection in Colombia, 2011-2019: code and aggregated data (v1.0.0). Zenodo; 2026. doi:10.5281/zenodo.23924392
 
